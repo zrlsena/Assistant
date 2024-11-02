@@ -1,0 +1,3 @@
+app/(tabs)/index.tsx -> home page
+app/(tabs)/explore.tsx -> default page
+app/(tabs)/_layout -> navbar
