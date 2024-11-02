@@ -304,22 +304,12 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 16,
-    backgroundColor:'white',
-
   },
   calendar: {
-    width: '100%',
-    marginBottom: 20,
-    backgroundColor: '#fff',
-    padding: 20,
-    borderRadius: 8,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.1,
-    shadowRadius: 8,
-    elevation: 2,
-    borderColor: '#9B1B30',
     borderWidth: 1,
+    borderColor: '#9B1B30',
+    borderRadius: 10,
+    padding: 10,
 },
   greeting: {
     fontSize: 24,
